@@ -1,6 +1,6 @@
 # Delta Hedging & Adversarial Stock Path Generation Simulator
 
-A quantitative finance project built during the AlgoZenith HFT Bootcamp to compare traditional Black–Scholes delta hedging with neural network based hedging under different market conditions.
+A quantitative finance project built to compare traditional Black–Scholes delta hedging with neural network based hedging under different market conditions.
 
 ## What it does
 
